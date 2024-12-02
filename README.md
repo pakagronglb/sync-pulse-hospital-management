@@ -1,5 +1,7 @@
 # SyncPulse Hospital Management System 🏥
 
+![syncpulse-registration](https://github.com/user-attachments/assets/0d494015-7f26-4d2f-9358-5ed79189bd61)
+
 ## Project Overview
 SyncPulse is a modern, full-stack hospital management web application designed to streamline patient registration, appointment scheduling, and medical record management.
 
